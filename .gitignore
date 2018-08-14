@@ -1,0 +1,9 @@
+*.pyc
+data/
+output/
+.idea/
+*.pt
+*.zip
+*.log
+*.pkl
+*.bin
